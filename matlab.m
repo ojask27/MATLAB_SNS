@@ -1,2 +1,6 @@
+%<<<<<<< HEAD
 %TESTING FINAL     
- n
+% n
+%=======
+%testingwefwefwe
+%>>>>>>> parent of 1fdc898 (test)
